@@ -1,0 +1,32 @@
+/*
+Theme Name: MyFoundation
+Theme URI: http://techguywebsolutions.com
+Author: Brad Traversy
+Author URI: http://techguywebsolutions.com
+Description: Basic foundation 5 theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: myfoundation
+*/
+
+.menu li{
+	background:#008cba;
+	color: #fff;
+	list-style: none;
+	padding:10px;
+	float:left;
+	margin-right:4px;
+}
+
+.menu li a{
+	color: #fff;
+}
+
+.menu li:hover{
+	background:#f4f4f4;
+}
+
+.menu li:hover a{
+	color:#008cba;
+}
